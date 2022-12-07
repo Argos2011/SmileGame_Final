@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331220682864",
+    "firebase_url": "https://the-smile-game-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "the-smile-game",
+    "storage_bucket": "the-smile-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331220682864:android:bc3c757b3b33fcbdc0ccb5",
+        "android_client_info": {
+          "package_name": "com.example.thesmilegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331220682864-pd3bbfunbqu9a72f4tjh20plbqdvkafq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4oalambscvLQSu2F3lMeQI6LSfdhgQro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331220682864-pd3bbfunbqu9a72f4tjh20plbqdvkafq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
